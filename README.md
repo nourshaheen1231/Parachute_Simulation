@@ -13,10 +13,17 @@ This project simulates a skydiver jumping from a helicopter, with accurate physi
 
 🎮 Keys :
 R ->Release skydiver
+
 P ->Deploy parachute
+
 1 ->Select circular parachute
+
 L ->Select lifting parachute
+
 Q/E ->Adjust yaw
+
 O/L ->Adjust pitch
+
 C ->Toggle manual camera
+
 W/A/S/D/Space/Shift ->Move camera manually
