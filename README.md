@@ -12,6 +12,7 @@ This project simulates a skydiver jumping from a helicopter, with accurate physi
  Smooth camera transitions and manual control mode
 
 🎮 Keys :
+
 R ->Release skydiver
 
 P ->Deploy parachute
